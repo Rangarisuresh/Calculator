@@ -1,3 +1,4 @@
+#Calculator
 A basic calculator web application built using HTML, CSS, and JavaScript. This project provides essential arithmetic operations like addition, subtraction, multiplication, and division in a clean and user-friendly interface.
 
 Features:
